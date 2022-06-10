@@ -1,6 +1,6 @@
-# Computer guess secret number that we have chosen.
-import random
+# Computer guess a secret number that user have chosen.
 
+import random
     
 def computer_guess():
     print("You can specify a range for the number you've picked.")
